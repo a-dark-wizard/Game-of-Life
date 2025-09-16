@@ -29,7 +29,7 @@ python3 game_of_life.py
 The Main Menu allows the players to navigate to Play Menu and the Help and About Menus. The Help Menu details the game controls while About Menu lists game information.
 
 <p align="center">
-  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Main_Menu.png">
+  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Game-of-Life/master/Images/Main_Menu.png" alt="Main Menu">
 </p>
 
 #### Play Menu
@@ -37,7 +37,7 @@ The Main Menu allows the players to navigate to Play Menu and the Help and About
 In the Play Menu, players can change start pattern and the game update delay. Start patterns that can be chosen are 'Glider', 'Beacon', 'Toad','Blinker', 'Tetromino', 'Pulsar', 'Light Weight Spaceship', 'Copperhead Spaceship', 'Weekender', 'Gosper Glider Gun' and 'Random'. The game update delay is given in ms with smaller values causing the game to update faster. 
 
 <p align="center">
-  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Play_Menu.png">
+  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Game-of-Life/master/Images/Play_Menu.png" alt="Play Menu">
 </p>
 
 #### In-Game Screenshot
@@ -45,11 +45,11 @@ In the Play Menu, players can change start pattern and the game update delay. St
 Pulsar
 
 <p align="center">
-  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Pulsar.png">
+  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Game-of-Life/master/Images/Pulsar.png" alt="Pulsar">
 </p>
 
 Gosper Glider Gun
 
 <p align="center">
-  <img width="640" height="480" src="https://github.com/NeonInc/Game-of-Life/blob/master/Images/Glider_Gun.png">
+  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Game-of-Life/master/Images/Glider_Gun.png" alt="Glider Gun">
 </p>
